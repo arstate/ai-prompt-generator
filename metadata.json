@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Enhancer",
+  "description": "A web application that takes a prompt idea in any language and transforms it into a detailed, effective, and well-structured prompt in English using the Gemini API.",
+  "requestFramePermissions": []
+}
