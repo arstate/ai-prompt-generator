@@ -1,0 +1,5 @@
+{
+  "name": "ARSTATE.AI",
+  "description": "An AI chatbot that can generate and revise images based on your conversation. Chat normally or ask it to create an illustration for you.",
+  "requestFramePermissions": []
+}
